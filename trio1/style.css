@@ -13,8 +13,9 @@ main{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url("gb3.jpg") no-repeat center;
-}
+    /* background: url("gb3.jpg") no-repeat center;*/
+    background: linear-gradient(to right top, rgba(40, 43, 190, 0.8), #6785);
+} 
 .glass{
     background: #fff;
     min-height: 80vh;
